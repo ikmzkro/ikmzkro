@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ I'm currently diving into things I'm really excited about:
+
+- 🔐 MPC / Key Management with **AWS Nitro Enclaves**  
+  [aws-nitro-enclave-blockchain-wallet](https://github.com/aws-samples/aws-nitro-enclave-blockchain-wallet)
+
+- 🔑 Secure Ethereum account handling via **AWS KMS**  
+  [aws-kms-ethereum-accounts](https://github.com/aws-samples/aws-kms-ethereum-accounts)
+
+- 🧑‍🤝‍🧑 On-chain team assignment & reward system (**ETH Tokyo 2024 Finalist**)  
+  [toban](https://github.com/hackdays-io/toban)
