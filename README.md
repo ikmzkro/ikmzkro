@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠️ I'm currently diving into things I'm really excited about:
+### 🌱 I’m currently learning ...
 
 - 🔐 MPC / Key Management with **AWS Nitro Enclaves**  
   [aws-nitro-enclave-blockchain-wallet](https://github.com/aws-samples/aws-nitro-enclave-blockchain-wallet)
