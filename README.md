@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 
 - 🔐 MPC / Key Management with **AWS Nitro Enclaves**  
-  [aws-nitro-enclave-blockchain-wallet](https://github.com/aws-samples/aws-nitro-enclave-blockchain-wallet)
-
-- 🔑 Secure Ethereum account handling via **AWS KMS**  
-  [aws-kms-ethereum-accounts](https://github.com/aws-samples/aws-kms-ethereum-accounts)
-
-- 🧑‍🤝‍🧑 On-chain team assignment & reward system (**ETH Tokyo 2024 Finalist**)  
-  [toban](https://github.com/hackdays-io/toban)
+  - [aws-nitro-enclave-blockchain-wallet](https://github.com/aws-samples/aws-nitro-enclave-blockchain-wallet)
+  - [aws-nitro-enclaves-sdk-c](https://github.com/aws/aws-nitro-enclaves-sdk-c)
+- 🔑 Secure Ethereum account handling via **AWS KMS**
+  - [aws-kms-ethereum-accounts](https://github.com/aws-samples/aws-kms-ethereum-accounts)
+- 🧑‍🤝‍🧑 On-chain team assignment & reward system (**ETH Tokyo 2024 Finalist**)
+  - [toban](https://github.com/hackdays-io/toban)
